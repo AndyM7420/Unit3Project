@@ -1,0 +1,68 @@
+Unit 4 project
+public class  Heist {
+variables:
+String robber
+String planner
+String getaway
+String muscle
+String shuffle
+int first
+int second
+int third
+int fourth
+int fifth
+public Heist(String wants){
+ checks what of the four options did the user pick or if the user picked shuffle
+ use method to continue the story based on what user picks
+ if they picked it will use random and then equal the user input to whatever option is picked
+}
+private int Random(String random){
+This option will only run if this user picked shuffle. This will use the assigned numbers of each option and pick one of
+the options out of the four for the user. This will use Math.random to randomly pick a number. That way the user can be
+a robber, a planner, or the muscle.
+}
+private String Robber(String rob){
+this option is picked and the user will go through the story of the robber. They will be the one to enter the bank
+and hold hostages. Then the user will have option to through. The user could choose no hostage, or a certain amount of hostages
+Then the user could pick if he wants to go get the money by himself or with the muscle. the code will if the person gets caught, killed, or if
+he gets away with it.
+}
+private String Getaway(String second){
+This user is the getaway driver. He will pick between two cars, one sport or a minivan. Then the user will proceed
+to wait for the heist people. He will go through many situations like taking down a camera or being approached by cops.
+Then as the heist people are going away he can choose what route to take.
+}
+private String muscle(String third){
+The user is the muscle of the group. He will go to the 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
